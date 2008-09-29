@@ -18,7 +18,7 @@ It will disable new trackbacks across your site, both legitimate and spam. Howev
 
 Most non-Akismet style anti-trackback spam plugins work by connecting to the URL that sent the trackback and looking for a link to your blog. The problem with this is that many spammers actually post links to your blog in their spam posts rendering those types of plugins useless. Even those that check the IP address to make sure it matches are beaten by spam blogs (aka splogs).
 
-In the end it's up to you what to use for anti-spam, but I personally use Cookies For Comments, this plugin, and then [Defensio](http://defensio.com/) to catch anything that makes it through.
+In the end it's up to you what to use for anti-spam, but I personally use Cookies For Comments, this plugin, and then Akismet to catch anything that makes it through.
 
 == Installation ==
 
